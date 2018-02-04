@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Erick, again your reviews are well-written and give me a good sense of what you are getting from the papers. The review article on recent developments, in particular, seems like it was helpful in framing the production of activated carbon. It appears that you paper is moving from physical models to chemical and electrical processes for the production of supercapactive materials. That is totally fine, if that's what you are finding interesting. Your assignment for this week will be to take these extensive summaries that you have constructed and synthesize them -- forming the basis for your paper. Because the papers deal with different aspects and discuss different scales of reesarch, you might need to spend some time thinking about how they will fit together; you might also want to read another paper (or source) that helps bridge across the sources that you have presently. Great work so far.
+
+* Score: 20/20
+
 ## Assignment 2
 
 Erick, your summaries are well-written and give a good sense of the overview of the articles themselves. I think there's a bit missing from the summaries, which are the details of the models and analysis that's being done in them. I suspect that's because the details might be quite complicated. To make clear what you are studying, I think that you might need to read some paper that describes supercapacitance in more general terms - i.e., how does it come about and what models are used to describe it. Coupling a paper like that to these more detailed studies will help frame the overall paper that you are writing. Think about writing this review as an introduction to the field for someone new. Like I said, the summaries you provided are very good, but I'm asking that you broaden out your search before narrowing again, to make sure that you paper has the necessary background on supercapacitance. Great work.
