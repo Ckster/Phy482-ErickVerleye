@@ -3,9 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Erick, this is a good addition. Were there supposed to be two figures in this writeup? It's not clear the the first reference to a figure is to Fig. 1 in the paper (and it's also not obivous that it matches what you say about it if it is). I think you will need to pull all your writing together to make a complete draft this week. That will take some thinking on your part (and I can tell it's already something on your mind from your notes - thank you). For this week, your time is probably best spent trying to pull all of this together into a complete draft for feedback. Great work!
+
+* Score: 20/20
+
 ## Assignment 4
 
-Erick, great writeup. I think you did a great job with the feedback last week and worked on connecting up the different papers you have written. I think the notes at the end of this are helfpul as well in terms of letting me know where you are going next. A few things that would be helpful for this paper, is some sort of comparative graph illustrating super capacitors and Li-Ion power delivery differences (you can snag that from a paper and reference it). Additionaly, when you get into the constriuction of super-capacitors, I'd like to see a model of them, i.e., a figure of how they are constructed and references to the figutre to indicate what they look like, how they are constructed etc. As long as you reference where the figures come from, you don't need to make them yourself. For this week, I'd like to see you get this draft closer to the final version both by addressing my concerns and your own. Great work!
+Erick, great writeup. I think you did a great job with the feedback last week and worked on connecting up the different papers you have written. I think the notes at the end of this are helfpul as well in terms of letting me know where you are going next. A few things that would be helpful for this paper, is some sort of comparative graph illustrating super capacitors and Li-Ion power delivery differences (you can snag that from a paper and reference it). Additionally, when you get into the constriuction of super-capacitors, I'd like to see a model of them, i.e., a figure of how they are constructed and references to the figure to indicate what they look like, how they are constructed etc. As long as you reference where the figures come from, you don't need to make them yourself. For this week, I'd like to see you get this draft closer to the final version both by addressing my concerns and your own. Great work!
 
 * Score: 20/20
 
