@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Erick, I think you did a good job organizing your final paper. You have a lot of raw material to work into this paper and your outline makes a lot of sesnse to me. I would suggest that you not limit yourself to a paragraph for each of these ideas rather considering them sections where you say what you need and move on. I think that the first four sections make sense and appear to be organized on the basis of the components in 1.3, which to me makes sense for this type of paper. I think you appear to be struggling with how to wrap up in Sec. 5 - so my suggestion would be to consider: what are the big unsolved problems with super capacitors, what research is on-going and/or still needed, etc. I think if you include the motivation for these (i.e., why do we need them!?) you can wrap up nicely with the problems that still need to be solved. Great work on this outline.
+
+* Score: 20/20
+
 ## Assignment 5
 
 Erick, this is a good addition. Were there supposed to be two figures in this writeup? It's not clear the the first reference to a figure is to Fig. 1 in the paper (and it's also not obivous that it matches what you say about it if it is). I think you will need to pull all your writing together to make a complete draft this week. That will take some thinking on your part (and I can tell it's already something on your mind from your notes - thank you). For this week, your time is probably best spent trying to pull all of this together into a complete draft for feedback. Great work!
